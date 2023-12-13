@@ -1,0 +1,9 @@
+.contain-input {
+  margin-left: 4%;
+}
+
+.error {
+  color: red;
+  margin-left: 32px;
+  padding: 0px !important;
+}
